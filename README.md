@@ -1,13 +1,13 @@
 Front End Development
-Significo Site
-HTML, Tailwind CSS and JavaScript
- 
- 
-Objective
-To showcase the front-end-development skills.
 
-Skills Used
+Significo Site
+
 HTML, Tailwind CSS and JavaScript
+ 
+ 
+Objective:-To showcase the front-end-development skills.
+
+Skills Used:-HTML, Tailwind CSS and JavaScript
 
 
 Tailwind CSS
